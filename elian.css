@@ -1,0 +1,70 @@
+body {
+    background: #ececec;
+    font-family: "Î¢ÈíÑÅºÚ", "microsoft yahei";
+    font-size:20px;
+}
+#elianHeader{
+    height:65px;
+}
+.index-container-footer {
+    padding: 10px 0;
+}
+.index-container-footer .footimg {
+    padding: 1px;
+    text-align: center;
+}
+.index-container-footer .footimg img {
+    max-height: 100%;
+    max-width: 100%;
+}
+.elian-footer {
+    background: #FFFFFF;
+    padding: 20px 10px 10px 10px;
+    max-width: 100%;
+    width: 100%;
+}
+.elian-footer ul {
+    list-style: none;
+    padding: 1%;
+}
+.elian-footer ul li p {
+    font-size: 14px;
+    font-weight: 700;
+}
+.elian-footer ul li a {
+    font-size: 14px;
+    line-height: 2;
+    text-decoration: none;
+    color: #777;
+}
+.elian-footer ul li a:hover {
+    color: #006EC3;
+}
+.elian-footer .code_size img {
+    max-height: 142px;
+    max-width: 142px;
+}
+.elian-footer .coryright {
+    border-top: 1px solid #EDEDED;
+}
+.elian-footer .coryright ul {
+    padding-top: 20px;
+    list-style: none;
+}
+.elian-footer .coryright ul li {
+    float: left;
+    font-size: 14px;
+    color: #CFCFCF;
+    line-height: 30px;
+}
+.elian-footer .coryright ul li a {
+    color: #CFCFCF;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
